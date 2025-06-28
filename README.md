@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamza Ejaz</h1>
-<h3 align="center">A passionate DevOps Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzavn46&label=Profile%20views&color=0e75b6&style=flat" alt="hamzavn46" /> </p>
+
+- 🌱 I’m currently learning **AWS Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
